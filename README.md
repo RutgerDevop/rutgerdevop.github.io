@@ -35,9 +35,9 @@ For the purposes of this Privacy Policy:
 <li>You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</li>
 </ol>
 
-#Collecting and Using Your Personal Data
-##Types of Data Collected
-###Personal Data
+# Collecting and Using Your Personal Data
+## Types of Data Collected
+### Personal Data
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 <op>
@@ -105,10 +105,10 @@ Please note, however, that We may need to retain certain information when we hav
 Business Transactions
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-##Law enforcement
+## Law enforcement
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
-##Other legal requirements
+## Other legal requirements
 The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
 Comply with a legal obligation
@@ -119,12 +119,12 @@ Protect against legal liability
 #Security of Your Personal Data
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially reasonable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
-#Children's Privacy
+# Children's Privacy
 Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
 
 If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
 
-#Links to Other Websites
+# Links to Other Websites
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
@@ -136,7 +136,7 @@ We will let You know via email and/or a prominent notice on Our Service, prior t
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-#Contact Us
+# Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
 By email: gabemc678@gmail.com
