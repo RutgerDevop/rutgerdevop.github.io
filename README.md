@@ -44,7 +44,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
   <li>Email address</li>
   <li>Usage Data</li>
 </op>
-### Usage Data
+## Usage Data
 Usage Data is collected automatically when using the Service.
 
 Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.
@@ -129,7 +129,7 @@ Our Service may contain links to other websites that are not operated by Us. If 
 
 We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
 
-#Changes to this Privacy Policy
+# Changes to this Privacy Policy
 We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.
 
 We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.
@@ -140,8 +140,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, You can contact us:
 
 By email: gabemc678@gmail.com
-
-By visiting this page on our website: https://rutgerdevop.github.io/
 
 
 # How to delete your account.
